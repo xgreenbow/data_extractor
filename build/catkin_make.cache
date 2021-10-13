@@ -1,0 +1,2 @@
+data_extractor
+-DCATKIN_DEVEL_PREFIX=/shared/extract_data_ws/devel -DCMAKE_INSTALL_PREFIX=/shared/extract_data_ws/install -G Unix Makefiles

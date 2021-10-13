@@ -1,0 +1,8 @@
+prefix=/shared/extract_data_ws/install
+
+Name: data_extractor
+Description: Description of data_extractor
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

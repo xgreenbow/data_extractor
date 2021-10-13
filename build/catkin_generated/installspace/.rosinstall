@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /shared/extract_data_ws/install/setup.sh
